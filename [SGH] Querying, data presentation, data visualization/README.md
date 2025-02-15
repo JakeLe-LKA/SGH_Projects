@@ -8,5 +8,6 @@ This course focuses on querying, presenting, and visualizing data effectively. U
 
 # 📌 Folder Structure
 This folder contains projects completed during the course, including:
+- **README file**: Description about the project
 - **R Scripts**: Code files demonstrating querying and visualization techniques.
 - **Final Report**: A comprehensive report summarizing project insights, methodologies, and conclusions. 
