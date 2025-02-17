@@ -7,12 +7,17 @@ One of the key takeaways from this project is learning how financial indicators 
 - Acquisition: Instalment Loan
 - Cross-Selling: Cash Loan
 
+In addition, the project also provides a deep understandings in the models building phase such as the WoE transformation, variable selection method, the models evalution metrics on both predictive power and stability, etc.
+
 By building a fully automated process where credit decisions are driven entirely by predictive models, I gained valuable insights into the future of financial decision-making. This project has enhanced my ability to configure, optimize, and maintain automated credit scoring systems
+
+**Note:**
+All of the automation process, and code used in the project are provided by the lecturer of Credit Scoring - Automation Business Process subject, Professor Karol Przanowski.  
 
 ## Project Process
 The project contains 3 main parts:
 - The initial strategy which denied obvious BAD customers so that the models will have the chance to differentiate GOOD customers and "GREY" customers
-- Building 4 predictive models on:
+- Building 4 preictive models on:
   - Probability of default of customers who use the Installment Loan product
   - Probability of default of customers who use the Cash Loan product
   - Probability of default of customers who use the Cash Loan product when using an Installment Loan product
