@@ -13,7 +13,7 @@ By building a fully automated process where credit decisions are driven entirely
 The project contains 3 main parts:
 - The initial strategy which denied obvious BAD customers so that the models will have the chance to differentiate GOOD customers and "GREY" customers
 - Building 4 predictive models on:
-- - Probability of default of customers who use the Installment Loan product
+  - Probability of default of customers who use the Installment Loan product
   - Probability of default of customers who use the Cash Loan product
   - Probability of default of customers who use the Cash Loan product when using an Installment Loan product
   - Probability of response (Marketing model)
